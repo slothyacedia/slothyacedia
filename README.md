@@ -2,7 +2,7 @@
 I code for fun...
 
 ## Projects:
-- [bmods-acedia](https://github.com/slothyace/bmods-acedia) - Modded Actions & Events For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
+- [bmods-ace](https://github.com/slothyace/bmods-ace) - Modded Actions & Events For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 - [bmd-samples](https://github.com/slothyace/bmd-samples) - Sample Commands For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 
 ## Languages:
