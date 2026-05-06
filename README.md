@@ -2,7 +2,10 @@
 I code for fun...
 
 ## Projects:
+- [CrossArkChat.js](https://github.com/slothyacedia/CrossArkChat) - Cross Ark Chat For Ark: Survival Evolved And Ark: Survival Ascended With Extensible API, written in JavaScript
+
 - [bmods-acedia](https://github.com/slothyace/bmods-acedia) - Modded Actions & Events For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
+
 - [bmd-samples](https://github.com/slothyace/bmd-samples) - Sample Commands For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 
 ## Languages:
