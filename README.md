@@ -9,10 +9,23 @@ I code for fun...
 - [bmd-samples](https://github.com/slothyace/bmd-samples) - Sample Commands For [BMD](https://store.steampowered.com/app/2592170/Bot_Maker_For_Discord/)
 
 ## Languages:
-<img src="https://github.com/slothyace/slothyace/blob/main/icons/js.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/python.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/arduino.svg" width=32 height=32>
+<div align="left">
+  <img src="icons/cpp.svg" width="40" height="40" alt="cpp" />
+  <img src="icons/javascript.svg" width="40" height="40" alt="javascript" />
+  <img src="icons/python-dark.svg" width="40" height="40" alt="python-dark" />
+  <img src="icons/arduino.svg" width="40" height="40" alt="arduino" />
+</div>
 
 ## Platforms:
-<img src="https://github.com/slothyace/slothyace/blob/main/icons/discord.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/nodejs.svg" width=32 height=32> <img src="https://github.com/slothyace/slothyace/blob/main/icons/windows.svg" width=32 height=32>
+<div align="left">
+  <img src="icons/windows-dark.svg" width="40" height="40" alt="windows-dark" />
+  <img src="icons/nodejs-dark.svg" width="40" height="40" alt="nodejs-dark" />
+  <img src="icons/vscode-dark.svg" width="40" height="40" alt="vscode-dark" />
+  <img src="icons/visualstudio-dark.svg" width="40" height="40" alt="visualstudio-dark" />
+  <br/>
+  <img src="icons/git-dark.svg" width="40" height="40" alt="git-dark" />
+  <img src="icons/github-dark.svg" width="40" height="40" alt="github-dark" />
+</div>
 
 ## Support Me:
 <a href="https://ko-fi.com/slothyacedia"><img src="https://github.com/slothyace/slothyace/blob/main/icons/kofi.png" width=240 height=48>
