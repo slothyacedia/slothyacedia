@@ -1,7 +1,7 @@
 # Professional lazy bastard.
 I code for fun...
 
-## Projects:
+## Major Projects:
 - [CrossArkChat.js](https://github.com/slothyacedia/CrossArkChat) - Cross Ark Chat For Ark: Survival Evolved And Ark: Survival Ascended With Extensible API, written in JavaScript
 
 - [Sinful Plugins](https://github.com/sinful-plugins/aseapi-plugins) - Ark: Survival Evolved Server Plugins
